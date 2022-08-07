@@ -1,0 +1,22 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+  background: linear-gradient(to right,#003366,#add8e6);
+ 
+}
+.container{
+  text-align: center;
+  color: white;
+  /* border: 0.1rem solid #00070e; */
+  
+}
+.btn{
+  margin: 1rem;
+}
+input{
+  margin: 0.5rem 0.2rem;
+  border-radius: 0.5rem;
+}
